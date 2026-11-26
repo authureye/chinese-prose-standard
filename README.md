@@ -25,7 +25,7 @@
 Claude Code，走插件市场：
 
 ```
-claude plugin marketplace add <owner>/chinese-prose-standard
+claude plugin marketplace add authureye/chinese-prose-standard
 claude plugin install chinese-prose-standard@chinese-prose
 ```
 
