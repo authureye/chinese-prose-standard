@@ -1,0 +1,13 @@
+{
+  "name": "chinese-prose",
+  "owner": {
+    "name": "chinese-prose-standard"
+  },
+  "plugins": [
+    {
+      "name": "chinese-prose-standard",
+      "source": "./",
+      "description": "中文写作规范：语序、标点、腔调。让 AI 写出来的中文像人在说话。"
+    }
+  ]
+}

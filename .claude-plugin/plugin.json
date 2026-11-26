@@ -1,0 +1,6 @@
+{
+  "name": "chinese-prose-standard",
+  "description": "中文写作规范：语序、标点、腔调。让 AI 写出来的中文像人在说话。",
+  "version": "1.0.0",
+  "license": "MIT"
+}
